@@ -9,6 +9,10 @@ The wiki uses the following stack
  - [Jekyll](https://jekyllrb.com/)
  - [Just-The-Docs Theme](https://github.com/just-the-docs/just-the-docs)
 
+Prerequisites
+- Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
+- Install [Bundler](https://bundler.io/)
+
 To run the docs locally you need to
 1. Clone the repository
 2. Go to the `/docs` directory
